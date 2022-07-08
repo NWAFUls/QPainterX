@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>buttons/Curve.png</file>
+        <file>buttons/Ellipse.png</file>
+        <file>buttons/eraser.png</file>
+        <file>buttons/Line.png</file>
+        <file>buttons/Rect.png</file>
+        <file>buttons/ZoomIn.png</file>
+        <file>buttons/ZoomOut.png</file>
+        <file>buttons/save.png</file>
+        <file>buttons/Open.png</file>
+        <file>buttons/up.png</file>
+        <file>buttons/left.png</file>
+        <file>buttons/right.png</file>
+        <file>buttons/down.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
